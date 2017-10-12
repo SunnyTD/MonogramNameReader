@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Monogram_Name_Reader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Monogram_Name_Reader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
